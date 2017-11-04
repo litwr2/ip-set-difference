@@ -2,7 +2,7 @@
 These programs calculate the difference between two IP sets, they may be helpful with DHCP configure.
 There is also a test suite for thorough testing provided.
 
-Use `make' to build the programs and `make test' for test them.
+Use *make* to build the programs and *make test* for test them.
 
 Input data has the format like:
 ```
@@ -14,5 +14,5 @@ Input data has the format like:
 10.1.1.1 - 10.255.255.255
 ```
 
-See also a file `ip-data.txt' for the example of the data format.
+See also a file *ip-data.txt* for the example of the data format.
 
