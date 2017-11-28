@@ -4,7 +4,7 @@ There is also a test suite for thorough testing provided.
 
 Use **make** to build the programs and **make test** for testing them.
 
-Input data has the format like:
+Input data have the format like:
 ```
 192.168.2.1 - 192.168.128.255
 10.1.1.5 - 10.1.2.128
